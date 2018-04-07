@@ -12,5 +12,5 @@ I have replemented yolo structures in Keras and visualized it.
 ## Lenet_tensorflow
 Lenet is just like the "hello world" of deep learning. I have implemented it in tensorflow and trained with mnist dataset.
 
-##Mxnet_leaf_classification
+## Mxnet_leaf_classification
 Mxnet is the main platform for Amazon. It is really good for multi-gpus training. I implemented the Resnet18 in mxnet to do leaf classification.
